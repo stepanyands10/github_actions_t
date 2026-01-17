@@ -1,4 +1,4 @@
-name: CI/CD Pipeline  # Название workflow | comment
+name: CI/CD Pipeline  # Название workflow | comment//
 
 on:  # События, которые запускают workflow
   push:  # При пуше в репозиторий
